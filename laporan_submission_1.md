@@ -11,9 +11,6 @@ Proyek ini bertujuan untuk memprediksi risiko diabetes menggunakan algoritma Mac
 .
 ├── diabetes_prediction.ipynb
 ├── diabetes.csv
-├── model.pkl
-├── app.py
-├── requirements.txt
 └── README.md
 ```
 
