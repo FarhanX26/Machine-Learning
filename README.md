@@ -101,9 +101,8 @@ python app.py
 
 ## 👨‍💻 Anggota Kelompok
 
-1. Nama Anda
-2. Nama Teman Kelompok
-
+1. Muhammad Farhan Maulana Ardiansyah (2330511038)
+2. Aldiana Putra (233051101)
 ---
 
 ## 🎯 Hasil
