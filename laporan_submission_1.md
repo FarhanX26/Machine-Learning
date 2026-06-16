@@ -20,9 +20,6 @@ Proyek ini bertujuan untuk memprediksi risiko diabetes menggunakan algoritma Mac
   - [Google Colab](https://colab.research.google.com/)
   - [Jupyter Notebook](./diabetes_prediction.ipynb)
 
-- 📄 **Laporan**
-  - [README Project](./README.md)
-
 - 🚀 **Deployment**
   - [Gradio App](#)
 
